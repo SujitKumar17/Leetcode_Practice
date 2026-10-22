@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 ## Trie
 |  |
 | ------- |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0044-wildcard-matching) |
 ## Recursion
 |  |
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 ## Sorting
 |  |
 | ------- |
@@ -70,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0044-wildcard-matching) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
