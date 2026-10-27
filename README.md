@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0044-wildcard-matching) |
 ## Hash Table
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0023-merge-k-sorted-lists) |
 ## Divide and Conquer
 |  |
