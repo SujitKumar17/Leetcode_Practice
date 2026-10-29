@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0058-length-of-last-word) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Stack
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0066-plus-one) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Trie
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0023-merge-k-sorted-lists) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -116,4 +119,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
