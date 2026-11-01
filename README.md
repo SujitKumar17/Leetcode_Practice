@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0066-plus-one) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3665-twisted-mirror-path-count](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3665-twisted-mirror-path-count) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Trie
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0018-4sum) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Manacher
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0044-wildcard-matching) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -169,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Search
+|  |
+| ------- |
+| [2141-maximum-running-time-of-n-computers](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/2141-maximum-running-time-of-n-computers) |
 <!---LeetCode Topics End-->
