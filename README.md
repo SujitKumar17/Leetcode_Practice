@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0058-length-of-last-word) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0022-generate-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0044-wildcard-matching) |
 | [3665-twisted-mirror-path-count](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3665-twisted-mirror-path-count) |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0022-generate-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
