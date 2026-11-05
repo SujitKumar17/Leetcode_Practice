@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0066-plus-one) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3665-twisted-mirror-path-count) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0018-4sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Manacher
 |  |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Sliding Window
 |  |
