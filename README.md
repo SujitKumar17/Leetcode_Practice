@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0066-plus-one) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0029-divide-two-integers) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Tree
 |  |
