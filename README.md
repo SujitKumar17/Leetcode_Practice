@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0066-plus-one) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0035-search-insert-position) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Sliding Window
