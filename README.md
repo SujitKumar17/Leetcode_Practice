@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0058-length-of-last-word) |
+| [0065-valid-number](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0065-valid-number) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Stack
