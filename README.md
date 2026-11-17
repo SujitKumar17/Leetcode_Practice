@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0065-valid-number) |
+| [0076-minimum-window-substring](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0076-minimum-window-substring) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0076-minimum-window-substring](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0076-minimum-window-substring) |
 | [2747-count-zero-request-servers](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Math
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0076-minimum-window-substring) |
 | [2747-count-zero-request-servers](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## String Matching
