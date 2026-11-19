@@ -192,11 +192,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0100-same-tree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0100-same-tree) |
 | [1267-count-servers-that-communicate](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/1267-count-servers-that-communicate) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Indexed Tree
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0100-same-tree) |
 ## Binary Search
 |  |
 | ------- |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0100-same-tree) |
 | [1267-count-servers-that-communicate](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/1267-count-servers-that-communicate) |
 ## Union-Find
 |  |
