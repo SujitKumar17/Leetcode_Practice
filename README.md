@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0044-wildcard-matching) |
+| [0096-unique-binary-search-trees](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0096-unique-binary-search-trees) |
 | [0140-word-break-ii](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0140-word-break-ii) |
 | [0174-dungeon-game](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0174-dungeon-game) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0066-plus-one) |
+| [0096-unique-binary-search-trees](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0096-unique-binary-search-trees) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0100-same-tree) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0100-same-tree) |
 ## Binary Search
 |  |
@@ -297,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0140-word-break-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
