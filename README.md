@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0140-word-break-ii) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Stack
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/2747-count-zero-request-servers) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3665-twisted-mirror-path-count) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0076-minimum-window-substring) |
 | [0140-word-break-ii](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0140-word-break-ii) |
 | [2747-count-zero-request-servers](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/2747-count-zero-request-servers) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Math
 |  |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0100-same-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -211,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0100-same-tree) |
 | [1267-count-servers-that-communicate](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/1267-count-servers-that-communicate) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Indexed Tree
 |  |
