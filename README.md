@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3665-twisted-mirror-path-count) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/1352-product-of-the-last-k-numbers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0076-minimum-window-substring) |
 | [2747-count-zero-request-servers](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/2747-count-zero-request-servers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## String Matching
 |  |
@@ -320,4 +323,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/1352-product-of-the-last-k-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
