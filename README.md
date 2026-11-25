@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0065-valid-number) |
 | [0076-minimum-window-substring](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0076-minimum-window-substring) |
 | [0140-word-break-ii](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0140-word-break-ii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0076-minimum-window-substring) |
 | [0140-word-break-ii](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0140-word-break-ii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2747-count-zero-request-servers](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/2747-count-zero-request-servers) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0076-minimum-window-substring) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2747-count-zero-request-servers](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/2747-count-zero-request-servers) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
