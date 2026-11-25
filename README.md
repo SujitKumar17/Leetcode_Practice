@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3665-twisted-mirror-path-count](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3665-twisted-mirror-path-count) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [3934-smallest-unique-subarray](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3934-smallest-unique-subarray) |
 ## Trie
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/2747-count-zero-request-servers) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3934-smallest-unique-subarray](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3934-smallest-unique-subarray) |
 ## Math
 |  |
 | ------- |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0035-search-insert-position) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/2141-maximum-running-time-of-n-computers) |
+| [3934-smallest-unique-subarray](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3934-smallest-unique-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -334,4 +337,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3411-maximum-subarray-with-equal-products) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
