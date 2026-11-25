@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0065-valid-number) |
 | [0076-minimum-window-substring](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0076-minimum-window-substring) |
 | [0140-word-break-ii](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0140-word-break-ii) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1882-process-tasks-using-servers](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/1882-process-tasks-using-servers) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/2747-count-zero-request-servers) |
