@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/1291-sequential-digits) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Number Theory
 |  |
