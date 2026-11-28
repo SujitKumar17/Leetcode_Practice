@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/1267-count-servers-that-communicate) |
 | [1352-product-of-the-last-k-numbers](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1882-process-tasks-using-servers](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/1882-process-tasks-using-servers) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0018-4sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
