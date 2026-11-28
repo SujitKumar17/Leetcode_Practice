@@ -380,4 +380,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/3934-smallest-unique-subarray) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/SujitKumar17/Leetcode_Practice/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
